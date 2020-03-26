@@ -1,5 +1,5 @@
 
-exports.up = function(knex) { //o qu eeu quero que seja feito...
+exports.up = function(knex) { 
  return 	knex.schema.createTable('ongs', function(table) {
 		table.string('id').primary();
 		table.string('nome').notNullable();
@@ -11,6 +11,6 @@ exports.up = function(knex) { //o qu eeu quero que seja feito...
   
 };
 
-exports.down = function(knex) { //se deu algum problema eu faço isso...
+exports.down = function(knex) { 
  return  knex.schema.dropTable('ongs');
 };
