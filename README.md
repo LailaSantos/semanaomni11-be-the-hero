@@ -12,6 +12,6 @@
 
 O Be The Hero é um site com intuito de conectar pessoas que gostam de ajudar ONGS.
 
+Obs: Dei commit com o nome fron-end, mas é front táa! 😂 É isto!!!
 
-
-Feito com 💜 by Rocktseat - Laila Roberta ✌😂.
+Feito com 💜 by Rocktseat - Laila Roberta ✌.
