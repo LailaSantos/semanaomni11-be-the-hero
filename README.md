@@ -1,4 +1,4 @@
-# semanaomni11-be-the-hero
+#Be The Hero
 
 
 Aplicação
@@ -6,4 +6,4 @@ O Be The Hero é um site com intuito de conectar pessoas que gostam de ajudar ON
 
 
 
-Feito com 💜 by Rocktseat - Laila Roberta ✌.
+Feito com 💜 by Rocktseat - Laila Roberta ✌😂.
